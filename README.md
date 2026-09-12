@@ -1,4 +1,4 @@
-# Quote Beast
+# Quote Beast for Android
 
 Android app that writes a short reply from copied text using Groq.
 
