@@ -1,9 +1,10 @@
 # Quote Beast
-<img width="310" height="692" alt="qemu-system-x86_64_YQLkCwg0hs" src="https://github.com/user-attachments/assets/30eddfe5-156f-47f5-8c0c-400eacd082ee" />
 
 Android app that writes a short reply from copied text using Groq.
 
 No copied text it'll use the default prompt.
+
+<img width="310" height="692" alt="qemu-system-x86_64_YQLkCwg0hs" src="https://github.com/user-attachments/assets/30eddfe5-156f-47f5-8c0c-400eacd082ee" />
 
 ## Install
 
