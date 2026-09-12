@@ -6,7 +6,7 @@ No copied text it'll use the default prompt.
 
 PC version is here: [Quote_beast.py](https://github.com/YanaSn0w1/Python/blob/main/Quotebeast/REAME.md#quote_beastpy "Quote_beast.py") ⬅️
 
-# [PayPal-Donate](https://www.paypal.com/donate/?hosted_button_id=9LWWH273HEVC4 "Donate to YanaHeat") 
+[PayPal-Donate](https://www.paypal.com/donate/?hosted_button_id=9LWWH273HEVC4 "Donate to YanaHeat") 
 
 <img width="310" height="692" alt="qemu-system-x86_64_YQLkCwg0hs" src="https://github.com/user-attachments/assets/30eddfe5-156f-47f5-8c0c-400eacd082ee" />
 
