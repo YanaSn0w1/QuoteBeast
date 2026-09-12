@@ -1,6 +1,8 @@
 # Quote Beast
 
-Android app that writes a short boost reply from copied text using Groq.
+Android app that writes a short reply from copied text using Groq.
+
+No copied text it'll use the default prompt.
 
 ## Install
 
@@ -20,11 +22,11 @@ This is a debug APK, not a Play Store app.
 
 Get a key at https://console.groq.com
 
-Do not put your key in this GitHub repo.
+Do not share your API key.
 
 ## Use
 
-1. Copy an X post
+1. Copy an X post or any text.
 2. Tap **Generate from clipboard**
 3. Go back to X → Reply → Paste
 
