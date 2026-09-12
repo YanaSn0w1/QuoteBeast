@@ -2,7 +2,7 @@
 
 Android app that writes a short reply from copied text using Groq.
 
-No copied text it'll use the default prompt.
+With no copied text it'll use the default prompt.
 
 PC version is here: [Quote_beast.py](https://github.com/YanaSn0w1/Python/blob/main/Quotebeast/REAME.md#quote_beastpy "Quote_beast.py") ⬅️
 
